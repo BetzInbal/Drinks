@@ -1,0 +1,16 @@
+C:\Users\codco\source\repos\Drinks\Drinks\bin\Debug\net8.0-windows\Drinks.exe
+C:\Users\codco\source\repos\Drinks\Drinks\bin\Debug\net8.0-windows\Drinks.deps.json
+C:\Users\codco\source\repos\Drinks\Drinks\bin\Debug\net8.0-windows\Drinks.runtimeconfig.json
+C:\Users\codco\source\repos\Drinks\Drinks\bin\Debug\net8.0-windows\Drinks.dll
+C:\Users\codco\source\repos\Drinks\Drinks\bin\Debug\net8.0-windows\Drinks.pdb
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.Form1.resources
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.csproj.GenerateResource.cache
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.AssemblyInfoInputs.cache
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.AssemblyInfo.cs
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.csproj.CoreCompileInputs.cache
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.dll
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\refint\Drinks.dll
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.pdb
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\Drinks.genruntimeconfig.cache
+C:\Users\codco\source\repos\Drinks\Drinks\obj\Debug\net8.0-windows\ref\Drinks.dll
